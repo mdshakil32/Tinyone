@@ -1,0 +1,163 @@
+@media (max-width: 575.98px){
+/* header start*/
+	.menu ul li a {
+    text-align: right;
+    padding: 0 0 !important;
+  }
+/* header start*/
+
+/* slider start*/
+.inspire {
+	text-align: center;
+	margin-top:0;
+}
+.inspire h1{
+	font-size: 25px;
+}
+.inspire ul li i{
+	font-size: 25px;
+	margin-right: 15px;
+}
+/* slider end*/
+
+/* feature start*/
+.single-feature{
+	text-align: center;
+}
+/* feature end*/
+
+/*support start*/
+.support-email {
+    width: 90%;
+}
+.support-email h1 {
+    font-size: 25px;
+}
+.support-email p {
+    font-size: 17px;
+}
+.submit-btn {
+    width: 100%;
+}
+.social-media i {
+ 
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+/*support end*/
+/*footer start*/
+footer {
+ 
+    text-align: center;
+}
+/*footer start*/
+
+}
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px){ 
+
+	/* header start*/
+	.menu ul li a {
+    text-align: right;
+    padding: 0 0 !important;
+  }
+
+ /* header start*/
+
+ /* slider start*/
+.inspire {
+	text-align: center;
+	margin-top:0px;
+}
+.inspire h1{
+	font-size: 27px;
+}
+.inspire ul li i{
+	font-size: 35px;
+	margin-right: 15px;
+}
+/* slider end*/
+/* feature start*/
+.single-feature{
+	text-align: center;
+}
+
+/* feature end*/
+
+/*support start*/
+
+.support-email h1 {
+    font-size: 28px;
+}
+.support-email p {
+    font-size: 19px;
+}
+/*support end*/
+/*support start*/
+.social-media i {
+    font-size: 35px;
+}
+/*support end*/
+
+
+
+
+ }
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px){ 
+
+/* header start*/
+	.menu ul li a {
+    text-align: right;
+    padding: 0 0 !important;
+  }
+/* header end*/
+
+/* slider start*/
+.inspire {
+	margin-top:15px;
+}
+.inspire h1{
+	font-size: 27px;
+}
+.inspire ul li i{
+	font-size: 35px;
+	margin-right: 15px;
+}
+/* slider end*/
+}
+
+/* feature start*/
+
+.single-feature h1 {
+    font-size: 21px;
+}
+.single-feature i {
+    font-size: 30px;
+}
+/* feature end*/
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px){ 
+
+.single-feature i {
+    font-size: 40px;
+}
+
+ }
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px){ 
+
+	/**feature start*/
+	.feature-header p{
+		padding: 0 100px;
+}
+.single-feature i {
+    font-size: 40px;
+}
+
+/**feature end*/
+
+ }
